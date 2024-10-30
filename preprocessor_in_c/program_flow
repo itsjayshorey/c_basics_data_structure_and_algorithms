@@ -1,0 +1,1 @@
+source_code --> (preprocessor)--->Expanded_source_code --> (compiler) --->Assembly_source_code -->(Assembler) --->(Object_code) --->Excecutable Code --->(Loader) --->Execution

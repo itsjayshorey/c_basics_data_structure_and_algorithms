@@ -1,0 +1,6 @@
+Before a c program is compiled in compiler , source code is processed by a program called preprocessor. Commands used in preprocessor are called preprocessor directives 
+All the preprocessor directives start with #
+
+
+Source_code (code.c)--->  Expanded_source_code  (code.i)---> Assembly_source_code (code.s) ---> Object_code (sample.o) ---> Executable_code(code.exe)
+preprocessor ---> Compiler ---> Assembler ---> Linker --->Loader

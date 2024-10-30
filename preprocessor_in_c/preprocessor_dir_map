@@ -1,0 +1,10 @@
+Preprocessor_directives
+--
+File inclusion (#include)
+Macro substitution (#define)
+conditional directives(#if #elif #ndif etc )
+Miscellaneous directive(#pragma #error #line)
+--
+Operators in preprocessors
+'''#
+##'''

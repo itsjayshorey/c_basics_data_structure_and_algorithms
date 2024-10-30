@@ -1,0 +1,4 @@
+Programs are easier to develop,(like printf can work with different versions of machine )
+Easier to read,
+Easier to modify,
+C code more transportable between different machiene architectures
